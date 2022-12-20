@@ -1,0 +1,6 @@
+module Pods_testSwiper_testSwiperTests {
+  umbrella header "Pods-testSwiper-testSwiperTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
